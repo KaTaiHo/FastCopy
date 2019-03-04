@@ -9,3 +9,7 @@ FastCopy is just a program that uses overlapped unbuffered I/O from one harddriv
 ## Current Limitations
 
 FastCopy is not restartable at the moment. Meaning that if your computer crashes or the destination computer crashes during copying it will not be able to restart at the point where it crashed.
+
+## WARNING!
+
+FastCopy is just a project I am working on for fun. It is not recommended to use FastCopy for any production means and I am not liable for any damages caused by FastCopy. This project is for learning purposes only.
